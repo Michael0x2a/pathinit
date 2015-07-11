@@ -29,4 +29,4 @@ I decided to resolve this problem by using the approach advocated on [this Stack
 ## Todo
 
 - Allow the user to initialize by using `pathinit <group>` instead of having to run a separate batch file under `init-<group>`.
-
+- Expand this readme, and otherwise make this project slightly more suitable for general use
